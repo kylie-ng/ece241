@@ -6,7 +6,7 @@
 
 ## Labs Overview
 - **[Lab 1](https://github.com/kylie-ng/ece241/tree/main/lab1)**: Switches, Lights, and Multiplexers
-- **[Lab 2](https://github.com/kylie-ng/ece241/tree/main/lab2)**: Numbers and Displays
+- **Lab 2**: Numbers and Displays
 - **[Lab 3](https://github.com/kylie-ng/ece241/tree/main/lab3)**: Latches, Flip-flops, and Registers
 - **[Lab 4](https://github.com/kylie-ng/ece241/tree/main/lab4)**: Counters
 - **[Lab 5](https://github.com/kylie-ng/ece241/tree/main/lab5)**: Finite State Machines
