@@ -5,7 +5,6 @@
  - There is a major lab component using Field-Programmable Gate Arrays (FPGAs) and associated computer-aided design software.
 
 ## Labs Overview
-- **[Lab 0](https://github.com/kylie-ng/ece241/tree/main/lab0)**: Computer Aided Design Tools
 - **[Lab 1](https://github.com/kylie-ng/ece241/tree/main/lab1)**: Switches, Lights, and Multiplexers
 - **[Lab 2](https://github.com/kylie-ng/ece241/tree/main/lab2)**: Numbers and Displays
 - **[Lab 3](https://github.com/kylie-ng/ece241/tree/main/lab3)**: Latches, Flip-flops, and Registers
